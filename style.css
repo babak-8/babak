@@ -301,10 +301,13 @@ article.active {
 }
 
 .info-content .title {
-    color: var(--white1);
-    background: var(--onyx);
+   /* color: var(--white1);
+    background: var(--onyx);*/
+    color: #000000;
+    background: #ffdb70;
     font-size: var(--fs8);
-    font-weight: var(--fw300);
+    /*font-weight: var(--fw300);*/
+    font-weight: 500;
     width: max-content;
     padding: 3px 12px;
     border-radius: 8px;
